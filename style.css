@@ -447,7 +447,7 @@ html,body{
 
 .footer{
     background-color: #151515;
-    width: 110%;
+    width: 115%;
     height: 470px;
     margin-top: 160vw;
     display: flex;
@@ -506,7 +506,7 @@ html,body{
     flex-direction: column;
     gap: 1vw;
     padding-top: 3vw;
-    padding-left: 25vw;
+    padding-left: 18vw;
 }
 
 .emailadd h3{
@@ -544,7 +544,7 @@ html,body{
 }
 
 .socials{
-    padding-left: 37.5vw;
+    padding-left: 30vw;
     padding-top: 9vw;
     /* font-size: 1vw; */
 }
